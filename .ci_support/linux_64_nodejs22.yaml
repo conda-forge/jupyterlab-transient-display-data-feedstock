@@ -7,6 +7,6 @@ channel_targets:
 docker_image:
 - quay.io/condaforge/linux-anvil-x86_64:alma9
 nodejs:
-- '20'
+- '22'
 python_min:
 - '3.9'
